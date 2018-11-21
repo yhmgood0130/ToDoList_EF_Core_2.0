@@ -1,0 +1,8 @@
+C:\Users\myang\source\playground\SimpleApp\SimpleApp.Domain\bin\Debug\SimpleApp.Domain.dll
+C:\Users\myang\source\playground\SimpleApp\SimpleApp.Domain\bin\Debug\SimpleApp.Domain.pdb
+C:\Users\myang\source\playground\SimpleApp\SimpleApp.Domain\obj\Debug\SimpleApp.Domain.csprojAssemblyReference.cache
+C:\Users\myang\source\playground\SimpleApp\SimpleApp.Domain\obj\Debug\SimpleApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\myang\source\playground\SimpleApp\SimpleApp.Domain\obj\Debug\SimpleApp.Domain.dll
+C:\Users\myang\source\playground\SimpleApp\SimpleApp.Domain\obj\Debug\SimpleApp.Domain.pdb
+C:\Users\myang\source\playground\SimpleApp\SimpleApp.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\myang\source\playground\SimpleApp\SimpleApp.Domain\obj\Debug\SimpleApp.Domain.csproj.CopyComplete
